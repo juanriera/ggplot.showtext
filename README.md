@@ -10,7 +10,7 @@ El resultado se presenta en el archivo R `ggplot2_showtext.R` incluido en este r
 ### Mi versión en `ggplot2`
 ![Mi versión](ggplot2-version.png)
 
-El código de mi versión se incluye a continuación y en el archivo 'ggplot2_showtext.R' 
+El código de mi versión se incluye a continuación y en el archivo `ggplot2_showtext.R`
 
 ```r
 # ----------------------------------------------------------------------------
