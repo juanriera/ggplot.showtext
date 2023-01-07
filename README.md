@@ -1,6 +1,6 @@
 # Ensayo para probar la librería `showtext`en R utilizando `ggplot2`
 Este repositorio es la síntesis de una [serie de posts](https://community.rstudio.com/t/legend-in-ggplot2/156765) publicados en [Posit Community](https://community.rstudio.com/). El objetivo fue recrear en `ggplot2` el gráfico de presentación de la librería `showtext`, que utiliza las funciones gráficas básicas de R. El gráfico original puede verse en el [repositorio](https://github.com/yixuan/showtext) de su autor, [Yixuan Qiu](https://github.com/yixuan)
-El resultado se presenta en el archivo R `ggplot2_showtext.R` incluido en este repositorio. Posiblemente puede haber otras soluciones más sencillas que las que he encontrado.
+El resultado se presenta en el archivo R `ggplot2_showtext.R` incluido en este repositorio. Posiblemente puede haber otras soluciones más sencillas que las que he encontrado, estaé encantado de conocerlas.
 
 ### Gráfico original de [Yixuan Qiu](https://github.com/yixuan)
 ![Yixuan](original_yixuan.png)
