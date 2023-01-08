@@ -65,13 +65,13 @@ df |> ggplot(aes( x = x, y = y)) +
   theme_bw() + 
   theme(
     plot.title = element_text(size = 22, family = "bell"),
-    axis.text.x = element_text(size=18, family = "gochi"),
-    axis.text.y = element_text(size=18, family = "gochi"),
-    axis.title.x = element_text(size=24, family = "gochi"),
-    axis.title.y = element_text(size=24, family = "gochi"),
+    axis.text.x = element_text(size = 18, family = "gochi"),
+    axis.text.y = element_text(size = 18, family = "gochi"),
+    axis.title.x = element_text(size = 24, family = "gochi"),
+    axis.title.y = element_text(size = 24, family = "gochi"),
     panel.grid.minor.x = element_blank(),
     legend.position = c(0.895, 0.932),
-    legend.background = element_rect(colour = "black", fill="white", size=0.5, linetype="solid"),
+    legend.background = element_rect(colour = "black", fill = "white", linewidth = 0.5, linetype = "solid"),
     legend.text =  element_text(size=14, family = "rock"),
     legend.title = element_blank(),
   )
