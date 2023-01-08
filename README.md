@@ -88,7 +88,7 @@ df |> ggplot(aes( x = x, y = y)) +
     axis.title.y = element_text(size=24, family = "gochi"),
     panel.grid.minor.x = element_blank(),
     legend.position = c(0.895, 0.932),
-    legend.background = element_rect(colour = "black", fill="white", size=0.5, linetype="solid"),
+    legend.background = element_rect(colour = "black", fill="white", linewidth=0.5, linetype="solid"),
     legend.text =  element_text(size=14, family = "rock"),
     legend.title = element_blank(),
   )
